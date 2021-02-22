@@ -63,7 +63,7 @@
     "vuepress-plugin-typescript": "^0.3.0"
   },
   "peerDependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   },
   "dependencies": {
     "@interactjs/actions": "^1.9.20",
